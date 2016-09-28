@@ -10,4 +10,11 @@
     android:paddingTop="@dimen/activity_vertical_margin"
     tools:context="com.example.asanto.helloworldapplication.NextActivity">
 
+    <Button
+        android:text="CLOSE"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="156dp"
+        android:id="@+id/button2" />
 </RelativeLayout>
